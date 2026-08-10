@@ -1,0 +1,29 @@
+/* Configura o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+
+/* Estiliza a área dos botões */
+nav {
+    background-color: #222;
+    padding: 15px;
+}
+
+
+/* Estiliza os botões */
+button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+
+/* Organiza o conteúdo principal */
+main {
+    padding: 30px;
+}
+
+
